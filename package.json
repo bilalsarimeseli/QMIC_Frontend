@@ -60,7 +60,7 @@
         "jss-rtl": "^0.3.0",
         "lodash": "^4.17.19",
         "material-ui-popup-state": "1.4.1",
-        "object-path": "0.11.4",
+        "object-path": "0.11.5",
         "perfect-scrollbar": "1.5.0",
         "prop-types": "15.7.2",
         "qrcode.react": "^1.0.0",
